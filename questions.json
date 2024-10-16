@@ -1,21 +1,22 @@
 {
     "questions": [
       {
-        "question": "Which is the most popular JavaScript framework?",
-        "options": ["Angular", "React", "Svelte", "Vue"],
+        "question": "Ikinyabiziga cyose cyangwa ibinyabiziga bigenda bigomba kugira:",
+        "options": ["Umuyobozi ", "Umuherekeza", "A na B ni ibisubizo by’ukuri", "Nta gisubizo cy’ukuri kirimo"],
         "correctOption": 1,
         "points": 10
       },
       {
-        "question": "Which company invented React?",
-        "options": ["Google", "Apple", "Netflix", "Facebook"],
+        "question": "Ijambo “akayira” bivuga inzira nyabagendwa ifunganye yagenewe gusa:",
+        "options": ["Abanyamaguru", "Ibinyabiziga bigendera ku biziga bibiri ", "A na B ni ibisubizo by’ukuri", "Nta gisubizo cy’ukuri kirimo"],
         "correctOption": 3,
         "points": 10
       },
       {
-        "question": "What's the fundamental building block of React apps?",
-        "options": ["Components", "Blocks", "Elements", "Effects"],
-        "correctOption": 0,
+        "question": " Umurongo uciyemo uduce umenyesha ahegereye umurongo ushobora kuzuzwa n’uturanga gukata tw’ibara ryera utwo
+turanga cyerekezo tumenyesha : ",
+        "options": ["Igisate cy’umuhanda abayobozi bagomba gukurikira ", "Ahegereye umurongo ukomeje", "Igabanurwa ry’umubare w’ibisate by’umuhanda mu cyerekezo bajyamo", "A na C nibyo"],
+        "correctOption": 3,
         "points": 10
       },
       {
