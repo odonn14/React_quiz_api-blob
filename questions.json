@@ -20,20 +20,20 @@ turanga cyerekezo tumenyesha : ",
         "points": 10
       },
       {
-        "question": "What's the name of the syntax we use to describe the UI in React components?",
-        "options": ["FBJ", "Babel", "JSX", "ES2015"],
-        "correctOption": 2,
+        "question": "Ahantu ho kugendera mu muhanda herekanwa n’ibimenyetso bimurika  ibinyabiziga ntibishobora kuhagenda:",
+        "options": ["Biteganye", "Ku murongo umwe", "A na B nibyo", "Nta gisubizo cy’ukuri kirimo"],
+        "correctOption": 4,
         "points": 10
       },
       {
-        "question": "How does data flow naturally in React apps?",
+        "question": "Ibinyabiziga bikurikira bigomba gukorerwa isuzumwa buri mwaka:",
         "options": [
-          "From parents to children",
-          "From children to parents",
-          "Both ways",
-          "The developers decides"
+          "Ibinyabiziga bigenewe gutwara abagenzi muri rusange",
+          "Ibinyabiziga bigenewe gutwara ibintu birengeje toni 3.5",
+          "Ibinyabiziga bigenewe kwigisha gutwara",
+          "Nta gisubizo cy’ukuri kirimo"
         ],
-        "correctOption": 0,
+        "correctOption": 4,
         "points": 10
       },
       {
@@ -43,12 +43,12 @@ turanga cyerekezo tumenyesha : ",
         "points": 10
       },
       {
-        "question": "When to use derived state?",
+        "question": "Ubugari bwa romoruki ikuruwe n’ikinyamitende itatu ntibugomba kurenza ibipimo bikurikira:",
         "options": [
-          "Whenever the state should not trigger a re-render",
-          "Whenever the state can be synchronized with an effect",
-          "Whenever the state should be accessible to all components",
-          "Whenever the state can be computed from another state variable"
+          "cm75 ",
+          "cm125",
+          "cm265 ",
+          "Nta gisubizo cy’ukuri"
         ],
         "correctOption": 3,
         "points": 30
