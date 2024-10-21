@@ -117,25 +117,26 @@ k’abanyamaguru ariko amaze kureba ibi bikurikira:",
         "points": 30
       },
       {
-        "question": "An effect will always run on the initial render.",
+        "question": "Ku byerekeye kwerekana ibinyabiziga n’ukumurika kwabyo ndetse no kwerekana ihindura ry’ibyerekezo byabyo. Birabujijwe
+gukora andi matara cyangwa utugarurarumuri uretse ibitegetswe ariko ntibireba amatara akurikira: ",
         "options": [
-          "True",
-          "It depends on the dependency array",
-          "False",
-          "In depends on the code in the effect"
+          "Amatara ndanga ",
+          "Amatara ari imbere mu modoka ",
+          "Amatara ndangaburambarare ",
+          "Ibisubizo byose nibyo"
         ],
-        "correctOption": 0,
+        "correctOption": 2,
         "points": 30
       },
       {
-        "question": "When will an effect run if it doesn't have a dependency array?",
+        "question": "Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa w’amapikipiki mu isaha ni:",
         "options": [
-          "Only when the component mounts",
-          "Only when the component unmounts",
-          "The first time the component re-renders",
-          "Each time the component is re-rendered"
+          "Km25",
+          "Km70 ",
+          "Km40",
+          "Nta gisubizo cy’ukuri kirimo"
         ],
-        "correctOption": 3,
+        "correctOption": 4,
         "points": 20
       }
     ]
