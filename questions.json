@@ -7,14 +7,13 @@
         "points": 10
       },
       {
-        "question": "Ijambo “akayira” bivuga inzira nyabagendwa ifunganye yagenewe gusa:",
+        "question": "Ijambo akayira bivuga inzira nyabagendwa ifunganye yagenewe gusa:",
         "options": ["Abanyamaguru", "Ibinyabiziga bigendera ku biziga bibiri ", "A na B ni ibisubizo by’ukuri", "Nta gisubizo cy’ukuri kirimo"],
         "correctOption": 3,
         "points": 10
       },
       {
-        "question": "Umurongo uciyemo uduce umenyesha ahegereye umurongo ushobora kuzuzwa n’uturanga gukata tw’ibara ryera utwo
-turanga cyerekezo tumenyesha:",
+        "question": "Umurongo uciyemo uduce umenyesha ahegereye umurongo ushobora kuzuzwa nuturanga gukata twibara ryera utwo turanga cyerekezo tumenyesha:",
         "options": ["Igisate cy’umuhanda abayobozi bagomba gukurikira ", "Ahegereye umurongo ukomeje", "Igabanurwa ry’umubare w’ibisate by’umuhanda mu cyerekezo bajyamo", "A na C nibyo"],
         "correctOption": 3,
         "points": 10
@@ -87,8 +86,7 @@ turanga cyerekezo tumenyesha:",
         "points": 30
       },
       {
-        "question": "Icyapa cyerekana umuvuduko ntarengwa ikinyabiziga kitagomba kurenza gishyirwa gusa ku binyabiziga bifite uburemere ntarengwa
-bukurikira:",
+        "question": "Icyapa cyerekana umuvuduko ntarengwa ikinyabiziga kitagomba kurenza gishyirwa gusa ku binyabiziga bifite uburemere ntarengwa bukurikira:",
         "options": [
           "Burenga toni 1",
           "Burenga toni 2",
@@ -105,8 +103,7 @@ bukurikira:",
         "points": 10
       },
       {
-        "question": "Umuyobozi ugenda mu muhanda igihe ubugari bwawo budatuma anyuranaho nta nkomyi ashobora kunyura mu kayira
-k’abanyamaguru ariko amaze kureba ibi bikurikira:",
+        "question": "Umuyobozi ugenda mu muhanda igihe ubugari bwawo budatuma anyuranaho nta nkomyi ashobora kunyura mu kayira k’abanyamaguru ariko amaze kureba ibi bikurikira:",
         "options": [
           "Umuvuduko w’abanyamaguru",
           "Ubugari bw’umuhanda",
@@ -117,8 +114,7 @@ k’abanyamaguru ariko amaze kureba ibi bikurikira:",
         "points": 30
       },
       {
-        "question": "Ku byerekeye kwerekana ibinyabiziga n’ukumurika kwabyo ndetse no kwerekana ihindura ry’ibyerekezo byabyo. Birabujijwe
-gukora andi matara cyangwa utugarurarumuri uretse ibitegetswe ariko ntibireba amatara akurikira: ",
+        "question": "Ku byerekeye kwerekana ibinyabiziga n’ukumurika kwabyo ndetse no kwerekana ihindura ry’ibyerekezo byabyo. Birabujijwe gukora andi matara cyangwa utugarurarumuri uretse ibitegetswe ariko ntibireba amatara akurikira: ",
         "options": [
           "Amatara ndanga ",
           "Amatara ari imbere mu modoka ",
