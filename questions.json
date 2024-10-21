@@ -37,9 +37,9 @@ turanga cyerekezo tumenyesha : ",
         "points": 10
       },
       {
-        "question": "How to pass data into a child component?",
-        "options": ["State", "Props", "PropTypes", "Parameters"],
-        "correctOption": 1,
+        "question": "Ubugari bwa romoruki ikuruwe n’ikinyamitende itatu ntibugomba kurenza ibipimo bikurikira:",
+        "options": ["cm75", "cm125 ", "cm265", "Nta gisubizo cy’ukuri"],
+        "correctOption": 4,
         "points": 10
       },
       {
@@ -54,64 +54,66 @@ turanga cyerekezo tumenyesha : ",
         "points": 30
       },
       {
-        "question": "What triggers a UI re-render in React?",
+        "question": "Uburebure bw’ibinyabiziga bikurikira ntibugomba kurenga metero 11 :",
         "options": [
-          "Running an effect",
-          "Passing props",
-          "Updating state",
-          "Adding event listeners to DOM elements"
+          "Ibifite umutambiko umwe uhuza imipira",
+          "Ibifite imitambiko ibiri ikurikiranye mu bugari bwayo",
+          "Makuzungu",
+          "Nta gisubizo cy’ukuri"
         ],
-        "correctOption": 2,
+        "correctOption": 4,
         "points": 20
       },
       {
-        "question": "When do we directly \"touch\" the DOM in React?",
+        "question": "Ikinyabiziga kibujijwe guhagarara akanya kanini aha hakurikira :",
         "options": [
-          "When we need to listen to an event",
-          "When we need to change the UI",
-          "When we need to add styles",
-          "Almost never"
+          "Ahatarengeje metero 1 imbere cyangwa inyuma y’ikinyabiziga gihagaze akanya gato cyangwa kanini :",
+          "Ahantu hari ibimenyetso bibuza byabugenewe",
+          "Aho abanyamaguru banyura mu muhanda ngo bakikire inkomyi",
+          "Ibisubizo byose nibyo"
         ],
-        "correctOption": 3,
+        "correctOption": 4,
         "points": 20
       },
       {
-        "question": "In what situation do we use a callback to update state?",
+        "question": "Kunyuranaho bikorerwa:",
         "options": [
-          "When updating the state will be slow",
-          "When the updated state is very data-intensive",
-          "When the state update should happen faster",
-          "When the new state depends on the previous state"
+          "Mu ruhande rw’iburyo gusa",
+          "Igihe cyose ni ibumoso",
+          "Iburyo iyo unyura ku nyamaswa",
+          "Nta gisubizo cy’ukuri kirimo"
         ],
-        "correctOption": 3,
+        "correctOption": 4,
         "points": 30
       },
       {
-        "question": "If we pass a function to useState, when will that function be called?",
+        "question": "Icyapa cyerekana umuvuduko ntarengwa ikinyabiziga kitagomba kurenza gishyirwa gusa ku binyabiziga bifite uburemere ntarengwa
+bukurikira:",
         "options": [
-          "On each re-render",
-          "Each time we update the state",
-          "Only on the initial render",
-          "The first time we update the state"
+          "Burenga toni 1",
+          "Burenga toni 2",
+          "Burenga toni 24",
+          "Nta gisubizo cy’ukuri kirimo"
         ],
-        "correctOption": 2,
+        "correctOption": 4,
         "points": 30
       },
       {
-        "question": "Which hook to use for an API request on the component's initial render?",
-        "options": ["useState", "useEffect", "useRef", "useReducer"],
+        "question": "Ahatari mu nsisiro umuvuduko ntarengwa mu isaha wa velomoteri ni: ",
+        "options": ["Km50", "Km40", "Km30", "Nta gisubizo cy’ukuri"],
         "correctOption": 1,
         "points": 10
       },
       {
-        "question": "Which variables should go into the useEffect dependency array?",
+        "question": "Umuyobozi ugenda mu muhanda igihe ubugari bwawo budatuma anyuranaho nta nkomyi ashobora kunyura mu kayira
+k’abanyamaguru ariko amaze kureba ibi bikurikira:",
         "options": [
-          "Usually none",
-          "All our state variables",
-          "All state and props referenced in the effect",
-          "All variables needed for clean up"
+          "Umuvuduko w’abanyamaguru",
+          "Ubugari bw’umuhanda",
+          "Umubare w’abanyamaguru",
+          "Nta gisubizo cy’ukuri kirimo"
         ],
-        "correctOption": 2,
+        "correctOption": 4,
         "points": 30
       },
       {
