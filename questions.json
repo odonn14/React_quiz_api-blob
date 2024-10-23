@@ -134,6 +134,17 @@
         ],
         "correctOption": 4,
         "points": 20
+      },
+         {
+        "question": "Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa w’amapikipiki mu isaha ni:",
+        "options": [
+          "Km25",
+          "Km70 ",
+          "Km40",
+          "Nta gisubizo cy’ukuri kirimo"
+        ],
+        "correctOption": 4,
+        "points": 20
       }
     ]
   }
