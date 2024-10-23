@@ -2,7 +2,7 @@
     "questions": [
       {
         "question": "Ikinyabiziga cyose cyangwa ibinyabiziga bigenda bigomba kugira:",
-        "options": ["Umuyobozi", "Umuherekeza", "A na B ni ibisubizo by’ukuri", "Nta gisubizo cy’ukuri kirimo"],
+        "options": ["Umuherekeza", "Umuyobozi", "A na B ni ibisubizo by’ukuri", "Nta gisubizo cy’ukuri kirimo"],
         "correctOption": 1,
         "points": 10
       },
